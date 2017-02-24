@@ -1,0 +1,49 @@
+---
+booktitle: Proceedings of the Neural Connectomics Workshop at ECML 2014
+production: Bisakha Ray
+volume: 46
+year: '2014'
+shortname: ECML
+published: 2015-10-21
+start: 2014-09-15
+end: 2014-09-15
+note: "\\href{http://www.causality.inf.ethz.ch/connectomics/supplemental/UTL_proceedings_supplemental.html}{Supplementary
+  Material (challenge, data sets, fact sheet)}"
+layout: proceedings
+series: Proceedings of Machine Learning Research
+id: ECML-2014
+month: 0
+abstract: ''
+sections: 
+editor:
+- given: Demian
+  family: Battaglia
+- given: Isabelle
+  family: Guyon
+- given: Vincent
+  family: Lemaire
+- given: Jordi
+  family: Soriano
+title: Proceedings of the Neural Connectomics Workshop at ECML 2014
+email: ''
+description: Proceedings of the Neural Connectomics Workshop at ECML 2014
+url: http://proceedings.mlr.press
+baseurl: "/v46"
+twitter_username: mlresearch
+github_username: mlresearch
+markdown: kramdown
+permalink: "/:title.html"
+github:
+  edit: true
+  repository: v46
+conference:
+  name: Neural Connectomics Workshop
+  url: http://connectomics.chalearn.org/workshop
+  location: 
+  dates:
+  - 2014-09-15
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+# Site settings
+# Auto generated from v46.bib
