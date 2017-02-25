@@ -24,9 +24,21 @@ editor:
   family: Lemaire
 - given: Jordi
   family: Soriano
-title: Proceedings of the Neural Connectomics Workshop at ECML 2014
-email: ''
-description: Proceedings of the Neural Connectomics Workshop at ECML 2014
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of the Neural Connectomics Workshop at ECML 2014 on 15 September 2014
+
+  Published as Volume 46 by the Proceedings of Machine Learning Research on 21 October 2015.
+
+  Volume Edited by:
+    Demian Battaglia
+    Isabelle Guyon
+    Vincent Lemaire
+    Jordi Soriano
+
+  Series Editors:
+    Neil D. Lawrence
+    Mark Reid
 url: http://proceedings.mlr.press
 baseurl: "/v46"
 twitter_username: mlresearch
@@ -36,6 +48,7 @@ permalink: "/:title.html"
 github:
   edit: true
   repository: v46
+email: ''
 conference:
   name: Neural Connectomics Workshop
   url: http://connectomics.chalearn.org/workshop
