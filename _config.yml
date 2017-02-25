@@ -14,6 +14,8 @@ series: Proceedings of Machine Learning Research
 id: ECML-2014
 month: 0
 abstract: ''
+tex_title: 
+title: Proceedings of Machine Learning Research
 sections: 
 editor:
 - given: Demian
@@ -24,7 +26,6 @@ editor:
   family: Lemaire
 - given: Jordi
   family: Soriano
-title: Proceedings of Machine Learning Research
 description: |
   Proceedings of the Neural Connectomics Workshop at ECML 2014 on 15 September 2014
 
