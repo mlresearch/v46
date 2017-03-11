@@ -13,9 +13,6 @@ layout: proceedings
 series: Proceedings of Machine Learning Research
 id: ECML-2014
 month: 0
-abstract: ''
-tex_title: 
-title: Proceedings of Machine Learning Research
 cycles: false
 editor:
 - given: Demian
@@ -26,6 +23,7 @@ editor:
   family: Lemaire
 - given: Jordi
   family: Soriano
+title: Proceedings of Machine Learning Research
 description: |
   Proceedings of the Neural Connectomics Workshop at ECML 2014 on 15 September 2014
 
@@ -43,7 +41,7 @@ description: |
 date_str: 15 Sep
 url: http://proceedings.mlr.press
 baseurl: "/v46"
-twitter_username: mlresearch
+twitter_username: MLResearchPress
 github_username: mlresearch
 markdown: kramdown
 permalink: "/:title.html"
@@ -55,6 +53,7 @@ display:
     bibtex: true
     endnote: true
     apa: true
+    ris: true
   comments: false
 email: ''
 conference:
@@ -68,3 +67,4 @@ analytics:
     tracking_id: UA-92432422-1
 # Site settings
 # Auto generated from v46.bib
+---
