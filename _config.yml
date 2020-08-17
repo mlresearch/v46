@@ -10,6 +10,7 @@ end: 2014-09-15
 note: "\\href{http://www.causality.inf.ethz.ch/connectomics/supplemental/UTL_proceedings_supplemental.html}{Supplementary
   Material (challenge, data sets, fact sheet)}"
 layout: proceedings
+publisher: PMLR
 series: Proceedings of Machine Learning Research
 issn: 1938-7228
 id: ECML-2014
